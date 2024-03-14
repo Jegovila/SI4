@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from sklearn.cluster import KMeans
 
 
-df = pd.read_csv('df_agrupacion_5.csv') # 1-6
+df = pd.read_csv('df_agrupacion_1.csv') # 1-6
 print(df)
 
 x = np.asanyarray(df)
